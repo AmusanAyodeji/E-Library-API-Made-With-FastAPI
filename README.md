@@ -10,7 +10,7 @@ This is an **E-Library API** built with **FastAPI** in Python. The API allows us
 - Update book/user details
 - Retrieve book/user details
 - Delete books
-- Deavtivate user accounts
+- Deactivate user accounts
 - Borrowing and Returning books
 
 ---
