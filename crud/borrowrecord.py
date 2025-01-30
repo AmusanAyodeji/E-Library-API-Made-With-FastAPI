@@ -1,4 +1,3 @@
-from schema.borrow import BorrowRecord
 from fastapi import HTTPException
 
 borrow_record = []
